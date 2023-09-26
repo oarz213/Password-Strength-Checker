@@ -27,3 +27,18 @@ A password is considered strong if it meets the following criteria:
 
    ```bash
    python password_strength_checker.py
+Follow the on-screen instructions to enter a password.
+The program will check if the entered password meets the criteria for a strong password and provide feedback.
+Example
+Here's an example of running the program:
+
+less
+Copy code
+Enter a password: MyP@ssw0rd
+This is a strong password.
+Author
+[oarz213]
+License
+This project is open-source and available under the MIT License.
+
+Feel free to use, modify, and distribute this code for educational and personal use.
